@@ -11,7 +11,7 @@ public class WhileLoopDemo {
 	friends[4]=args[1];
 	friends[18]="Hillary";
 	friends[19]="Natasha";
-	
+	System.out.println("git");
 	int totalElements = friends.length;
 	int i = 0;
 	
